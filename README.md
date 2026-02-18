@@ -1,4 +1,4 @@
-# Proyecto: [NOMBRE DE TU SOLUCIÓN]
+# Proyecto: Finmojarra
 
 ## Sección A: Evidencia de Campo (Discovery)
 ## Sección B: Definición de Requisitos (Definition)
