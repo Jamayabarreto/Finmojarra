@@ -26,3 +26,6 @@
 * **RF-01 (Módulo de Alertas):** El sistema debe implementar un servicio de notificaciones push y/o correo electrónico para vencimientos de facturas.
 * **RF-02 (Persistencia de Datos):** El sistema debe almacenar registros categorizados de ingresos y egresos en una base de datos relacional.
 * **RF-03 (Gestión Multimedia):** El sistema debe permitir la carga y almacenamiento de imágenes (recibos) asociados a cada transacción.
+
+# conclusion 
+las personas tienen problemas con sus finanzas y el manejo del dinero.
